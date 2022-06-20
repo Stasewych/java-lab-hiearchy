@@ -1,1 +1,2 @@
-# java-lab-hiearchy
+# JavaLab
+JavaLab
